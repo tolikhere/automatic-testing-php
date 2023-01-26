@@ -1,0 +1,18 @@
+{
+    "name": "automatic/testing",
+    "description": "An automatic testing for my class",
+    "license": "MIT",
+    "autoload": {
+        "files": [
+            "src/StringUtils.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Tolik"
+        }
+    ],
+    "require": {
+        "webmozart/assert": "^1.11"
+    }
+}
